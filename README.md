@@ -1,2 +1,4 @@
 # code-smells-refactoring
-learning about how to identify smelly code + refactoring
+notes on how to identify smelly code + refactoring
+
+based on tutorial by industriallogic.com
