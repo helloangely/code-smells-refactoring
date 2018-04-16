@@ -1,0 +1,17 @@
+- finance analogy for tech debt:
+  skipping design -> borrowing money
+  refactoring -> repaying principal
+  slower development bc smelly code -> paying interest
+- design work is deferred -> technical debt
+- most code has tech debt
+- why technical debt should be decreased:
+  cost of change vs. customer (analyst) responsiveness
+  article: http://jimhighsmith.com/the-financial-implications-of-technical-debt/
+  - talks about how market capitalization decreases with more tech debt
+  - this is because the predictability of results decreases
+- companies that have processes in place for refactoring won't forget about it later
+- other costs:
+  - employee turnover
+  - poor adaptability to changes
+  - low motivation / productivity
+  - poor teamwork + cohesiveness

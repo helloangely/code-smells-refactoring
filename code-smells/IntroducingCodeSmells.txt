@@ -1,0 +1,11 @@
+- the point of this is to "identify hazards in code"
+- learn how to NOT design software
+- to achieve this, we need vocabulary to describe code
+  - 1) learn top smelly code patterns
+  - 2) recognize in your own code
+  - 3) think about how to make it better
+- smelly code indicates poor design
+- also could indicate deeper problems with code
+- code "smells" indicates something that needs to be changed
+- the point being, it's important to understand when change should occur
+- better "guidance" than knowing best practices

@@ -1,0 +1,9 @@
+lost intent
+- goal: communicate author's intention
+- code purpose clear vs complex logic / obscure
+- directories are organized / make sense
+- each step in an algorithm defined vs blended together
+- code is independent of side-effects of operations + functions
+- constructors should be clear so instances are obvious to make
+- code with lots of conditionals and purposes is confusing
+- common to have terrible variable names and complex methods
