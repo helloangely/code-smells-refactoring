@@ -1,0 +1,5 @@
+- Large classes do too much work
+- They become a "dumping ground" for new code
+- Don't collab with other objects well
+- Got this wrong:
+ - Large class contains too many Member functions.

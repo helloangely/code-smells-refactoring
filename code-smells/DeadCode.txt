@@ -1,0 +1,6 @@
+- Increased complexity to have dead Code
+- People waste time improving dead code
+- Becomes part of practice to include dead code
+- To identify dead code:
+ - domain knowledge, experience, tools, coverage, complexity, timing
+ 

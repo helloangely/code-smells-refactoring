@@ -1,0 +1,3 @@
+- Lazy class does not do anything to justify existence
+- Does the class simplify neighboring code
+-

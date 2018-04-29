@@ -1,0 +1,10 @@
+- Don't use comments to explain your code
+- You code should be intention-revealing, self-documented
+- So much that you don't need comments anymore
+- Better to refactor code than writing comments
+- Tests should help reveal expected behavior
+- Comments provide intent no expressed by code
+- Should not duplicate what code says
+- Code should express intent of comment
+- Got this one wrong:
+ - Comments are used to generate documentation for an API that is used by thousands of developers.

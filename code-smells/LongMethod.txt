@@ -1,0 +1,14 @@
+- Need to quickly and easily understand methods
+- Also how the function does it
+- Shorter member functions are:
+  - Readable
+  - Easier to share
+  - Easier to test
+- OOP programs that live longest have short member fns
+- When you have to study the code to figure out what it does
+- Break up long methods so you can figure out what it does it seconds
+- Don't worry about performance
+- Why people write long methods:
+  - Scattered code anxiety: don't want to jump around to figure out how code works
+  - It's the coding culture
+ 

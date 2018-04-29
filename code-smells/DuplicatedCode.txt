@@ -1,0 +1,5 @@
+- your program will be better if you unify your code
+- either its the exact same code, or different code that does same thing
+- DRY (don't repeat yourself)
+- Got this quiz question wrong:
+ - This microtest has nearly the same setup (not the exact same) as the one before it, so I am going to begin by copying it.

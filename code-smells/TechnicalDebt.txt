@@ -1,3 +1,4 @@
+Technical Debt
 - finance analogy for tech debt:
   skipping design -> borrowing money
   refactoring -> repaying principal

@@ -1,0 +1,25 @@
+Where the streets have no name
+- not optimized for the way programmers work
+- waste a second of time for everyone who looks at the code
+- programmers usually do three things: reading, scanning (macro level), writing
+- usually spend more time scanning code
+- change code so its easier to scan
+- reveal intention of the person using it
+  - describe what we intend the variable to do, rather than how it was set
+  - describe why someone would want to use a method rather than what it does
+  - answer the WHY we are doing this question to the reader
+  - why would someone call the method or use the variable
+  - class names easily explain inputs
+- choose simple, consistent, and accurate variable names.
+- don't shorten variable names
+- rename code
+  - try not to use inline code that does not reveal intention
+  - rather, make it a separate function
+  - make the variable's lifetime small as possible
+  - extract lots of of the code if its a complex method
+  - break up a large class into subclasses
+
+---confusing:
+most code smells make it more difficult to scan
+- from video: "when you meet code smells they are making your code more scannable or less scannable"
+also i don't know...methods are also useful to make code reusable
