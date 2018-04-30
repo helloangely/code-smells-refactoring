@@ -1,3 +1,6 @@
 - Lazy class does not do anything to justify existence
 - Does the class simplify neighboring code
--
+- Does the class provide significant utility to descendants
+- Is it growing - stagnant / shrinking / useful / new
+- No point of small classes
+- "Different data not behavior"

@@ -1,0 +1,4 @@
+- When you solve the same problem two different way
+- Solutions will be inconsistent
+- Need to refactor code all duplicated code at the same time
+- More direct solutions are less error prone (minority vs. majority)
