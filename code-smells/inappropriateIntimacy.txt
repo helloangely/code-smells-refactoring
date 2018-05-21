@@ -1,0 +1,4 @@
+- good class design
+  - hiding internal details of a class
+  - exposing only what clients need
+- more difficult to change when you expose too much

@@ -1,0 +1,6 @@
+- method that seems more interested in a class other than the one it is in
+- relies on another object for data/behavior
+-? when you add code in the wrong place
+- "freeholder"
+- sometimes methods that perform actions on data should be in the data class
+  - phone / customer example

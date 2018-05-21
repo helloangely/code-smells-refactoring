@@ -1,0 +1,7 @@
+- when a member function performs secondary behavior
+  - diverges form main purpose
+  - probably doing too much work
+- give methods a single responsibility
+- they are okay when the responsibilities are related
+  - ex. aspect oriented programming
+- when a program sets many things, such as error messages

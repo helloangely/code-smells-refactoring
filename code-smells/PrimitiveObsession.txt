@@ -1,0 +1,5 @@
+- happens when code solves a problem using types that are too low-level
+- fails to do higher level abstractions
+- looks like a script rather than functions
+- don't write awkward / unnecessary comparisons
+- write functions! with descriptive names.

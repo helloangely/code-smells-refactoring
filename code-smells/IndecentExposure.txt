@@ -1,0 +1,6 @@
+- indicates lack of information hiding
+- this happens when classes are exposed publicly and shouldn't
+- increases "conceptual weight"
+  - clients know about code they don't need to know about
+- about the higher-level view
+  - classes that are needlessly visible

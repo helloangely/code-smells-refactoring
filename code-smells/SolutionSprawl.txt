@@ -1,0 +1,6 @@
+- when code or data responsible for something is across lots of classes
+- often happens when feature is added to system ad-hoc
+- when code for a feature is spread across 3 or more classes
+- HTML parsing example:
+  - data passed down a lot instead of directly to a class
+  - can use factory method

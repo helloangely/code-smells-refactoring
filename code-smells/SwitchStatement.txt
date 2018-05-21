@@ -1,0 +1,7 @@
+- should consider polymorphism when you see switch statements
+- especially when comparing against the same value
+- multiple if/elif statements on the same variable:
+  - move code to subclasses
+- don't move code into subclasses if it will be one liner
+- dictionaries work pretty well to replace switch statements
+  - works when different data based on a key

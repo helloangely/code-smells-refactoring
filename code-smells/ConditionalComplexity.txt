@@ -1,0 +1,6 @@
+- conditional logic is innocent in its infancy
+- but it does not age well
+- it becomes more complex as systems gain functionality
+- can decrease productivity bc difficult to understand
+- extract conditional complexity into well-named methods
+- exact into polymorphic solution

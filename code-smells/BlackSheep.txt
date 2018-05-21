@@ -1,0 +1,4 @@
+- sometimes subclass / method doesn't fit in with family
+- subclass substantially different than other subclasses
+- method that is noticeably different from other methods
+- solution: move black sheep to another home

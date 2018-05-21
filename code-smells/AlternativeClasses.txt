@@ -1,0 +1,3 @@
+- differences in similar class interfaces leads to duplicated code
+- client code gets duplicated
+  - happens when classes don't have common interfaces

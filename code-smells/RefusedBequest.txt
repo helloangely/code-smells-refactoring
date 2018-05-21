@@ -1,0 +1,5 @@
+- happens when a subclass does not support superclass interface
+  - ex. overrides method that will "do nothing"
+- indicates bad hierarchy design
+  - client expects subclass to honor interface of superclass
+  - even overriding methods with an exception raise indicates this

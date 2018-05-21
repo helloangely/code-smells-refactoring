@@ -1,0 +1,5 @@
+- member functions that take too many params that is difficult to work
+-?? long param list suggests primitive obsession
+- introduce param object (classes that hold little data / behavior)
+- put data into the class rather than using a local variable
+- break up the method into smaller functions

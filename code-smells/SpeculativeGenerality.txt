@@ -1,0 +1,3 @@
+- happens when you write code today that you don't need today
+- adds over-complication, harder to understand, maintain, extend
+- i.e. making too many subclasses in anticipation for the future

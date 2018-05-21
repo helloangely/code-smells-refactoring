@@ -1,0 +1,4 @@
+- object's field (instance variable) should have meaning for object lifetime
+- a temporary field should not be a field, should be a method
+- indicates too many responsibilities in the member function
+- there should be a separate method that takes care of the temp field creation

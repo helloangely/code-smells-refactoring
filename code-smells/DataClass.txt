@@ -1,0 +1,10 @@
+- well designed classes encapsulate data
+  - with methods that act upon that data
+- but a class that only contains data
+  - may or may not be an example of this code smell
+- "dumb data holder" is another name for data class
+- but sometimes you want a data class (data transfer object)
+- data class is a good idea when:
+  - loose coupling between tiers (UI vs business logic)
+  - distributed objects (pass across a network)
+- sometimes we can put data classes with methods that act on the data

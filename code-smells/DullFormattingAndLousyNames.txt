@@ -1,0 +1,10 @@
+- nonstandard formatting
+  - python use pep8
+- lousy names for variables, classes, methods:
+  - should be concise
+  - describe intended use
+  - pronounceable
+- overblown solutions
+   - use complex means to solve a problem when simpler approach would suffice
+   - ex. using regex vs. python library
+   - lesson: use simple approaches
