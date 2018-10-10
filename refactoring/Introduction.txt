@@ -1,0 +1,2 @@
+Improving design of existing code
+Don't change its behavior

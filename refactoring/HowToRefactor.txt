@@ -1,0 +1,25 @@
+- baby steps
+  - make a few code changes and run tests
+- "First, Do No Harm" -- Hippocrates
+- goal is NOT to:
+  - break anything
+  - make anything worse
+  - introduce new behavior
+- take small, reversible steps
+- refactor safely
+  - automated tests help to know you're not breaking anything
+- the rhythm of refactoring
+  - verify tests pass
+  - decide what code to change
+  - implement one or more refactoring carefully
+  - run tests often to confirm changes are not impacting system behavior
+  - repeat until refactoring is complete / revery to previous state
+  - VIDEO: "the code was broken for too long"
+  - "The tests are run frequently and pass frequently."
+  - "Compilation errors are fixed in a timely manner."
+  - got paint card wrong, thought should be extract and guard clauses
+- easiest way to understand regex is the tests
+- use simpler regex expressions when complex ones are not needed
+  - match > find
+  - split > re.split
+  - pre-compile regex if doing it in a loop

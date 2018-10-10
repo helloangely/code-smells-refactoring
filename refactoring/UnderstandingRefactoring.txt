@@ -1,0 +1,12 @@
+- change made to internal structure
+- makes it easier to understand
+- cheaper to modify
+- no change in observable behavior
+- usually involves:
+  - removing dupe code, dead code
+  - simplifying complex code
+  - clarifying unclear code
+- revision
+  - when we re-see code, we make a choice if we want to improve it or not
+  - rewriting is throwing out code and writing it from scratch
+  - COLLABORATION!
